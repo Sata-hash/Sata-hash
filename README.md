@@ -19,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sata-hash&show_icons=true&locale=en" alt="sata-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sata-hash&" alt="sata-hash" /></p>
+[![An image of @sata1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sata1234)](https://holopin.io/@sata1234)

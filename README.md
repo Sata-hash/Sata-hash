@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satavisa Das</h1>
+[20240101_235246](https://github.com/Sata-hash/Sata-hash/assets/142712421/e8301a9b-f7ae-4fbf-a9d1-5ec88313b5ce)
 <h3 align="center">A passionate frontend developer from India.I am exploring different tech fields and has recently started with Android App Development and Cyber Security. Also I am into solving DSA and CP problems.</h3>
-![20240101_235246](https://github.com/Sata-hash/Sata-hash/assets/142712421/e8301a9b-f7ae-4fbf-a9d1-5ec88313b5ce)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sata-hash&label=Profile%20views&color=0e75b6&style=flat" alt="sata-hash" /> </p>

@@ -1,6 +1,6 @@
 ![Me](https://github.com/Sata-hash/Sata-hash/assets/142712421/1493c443-f555-42a6-9a95-d928bb8e3736)
 
-<h1 align="center">Hi ![wave](https://github.com/Sata-hash/Sata-hash/assets/142712421/8f9ca6dd-326c-4e93-af09-0ad893949088), I'm Satavisa Das</h1>
+Hi ![wave](https://github.com/Sata-hash/Sata-hash/assets/142712421/8f9ca6dd-326c-4e93-af09-0ad893949088), I'm Satavisa Das
 
 <h3 align="center">A passionate frontend developer from India.I am exploring different tech fields and has recently started with Android App Development and Cyber Security. Also I am into solving DSA and CP problems.</h3>
 

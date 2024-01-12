@@ -1,4 +1,4 @@
-![20240101_235246](https://github.com/Sata-hash/Sata-hash/assets/142712421/e8301a9b-f7ae-4fbf-a9d1-5ec88313b5ce)
+![Me](https://github.com/Sata-hash/Sata-hash/assets/142712421/1493c443-f555-42a6-9a95-d928bb8e3736)
 
 <h1 align="center">Hi 👋, I'm Satavisa Das</h1>
 

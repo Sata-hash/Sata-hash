@@ -23,5 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sata-hash&show_icons=true&locale=en" alt="sata-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sata-hash&" alt="sata-hash" />
-<img src="![Holopin_Badges](https://github.com/Sata-hash/Sata-hash/assets/142712421/43d12594-67b5-4677-ab74-fe69bb6270b4)"/></p>
+<img src="https://github.com/Sata-hash/Sata-hash/assets/142712421/43d12594-67b5-4677-ab74-fe69bb6270b4"/></p>
 

@@ -1,6 +1,6 @@
 ![Me](https://github.com/Sata-hash/Sata-hash/assets/142712421/1493c443-f555-42a6-9a95-d928bb8e3736)
 
-<h1 align="center">Hello 👋 , I'm Satavisa Das</h1>
+<h1 align="center">Hello 👋 , I'm Satavisa Das </h1>
 <h3 align="center">A passionate frontend developer from India.I am exploring different tech fields and has recently started with Android App Development and Cyber Security. Also I am into solving DSA and CP problems.I am currently working on several HTML,CSS,JS projects and revising the basics of frontend technologies.Will work on React Projects from May 28!!</h3>
 
 

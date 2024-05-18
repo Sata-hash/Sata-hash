@@ -1,6 +1,10 @@
 ![Me](https://github.com/Sata-hash/Sata-hash/assets/142712421/1493c443-f555-42a6-9a95-d928bb8e3736)
 
-<h1 align="center">Hello 👋 , I'm Satavisa Das </h1>
+<!-- ### Hi there 👋 -->
+<!-- <h1 align="center">Hi 👋, I'm Satavisa Das</h1> -->
+<h1 align="center">Hi, welcome<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
+<img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
+<h2> I'm Satavisa! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
 <h3 align="center">A passionate frontend developer from India.I am exploring different tech fields and has recently started with Android App Development and Cyber Security. Also I am into solving DSA and CP problems.I am currently working on several HTML,CSS,JS projects and revising the basics of frontend technologies.Will work on React Projects from May 28!!</h3>
 
 

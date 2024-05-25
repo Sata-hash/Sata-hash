@@ -1,7 +1,7 @@
 ![Me](https://github.com/Sata-hash/Sata-hash/assets/142712421/1493c443-f555-42a6-9a95-d928bb8e3736)
 
 
-<!-- <h1 align="center">Hello 👋, I'm Satavisa Das</h1> -->
+<!-- <h1 align="center">Hello 👋, I am Satavisa Das</h1> -->
 <h1 align="center">Hello, welcome<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
 
 <h2> I'm Satavisa! <img src="https://slackmojis.com/emojis/21142-meow_bongotap/download" width="30" height="30"></h2>

@@ -20,7 +20,7 @@
  <a href="https://codeforces.com/profile/sattus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="satavisa das" height="30" width="40" /></a> 
   <a href="https://www.linkedin.com/in/satavisa-das-412096294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satavisa das" height="30" width="40" /></a> 
 </p>
-<h3 align="left">Contact with me: <b>satavisa1234@gmail.com</b></h3>
+<h1 align="left">Contact with me: <b>satavisa1234@gmail.com</b></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

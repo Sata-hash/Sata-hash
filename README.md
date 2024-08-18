@@ -5,7 +5,7 @@
 <h1 align="center">Hello, welcome<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
 
 <h2> I'm Satavisa! <img src="https://slackmojis.com/emojis/21142-meow_bongotap/download" width="30" height="30"></h2>
-<h3 align="center">A passionate frontend developer from India.I am exploring different tech fields and has recently started learning Devops. Also I am into solving DSA and CP problems.Besides, I am also interested in Cyber Security as well as Cloud Computing.</h3>
+<h3 align="center">A passionate frontend developer from India.I am exploring different tech fields and has recently started learning Devops. Also I am into solving DSA and CP problems.And I love learning new algorithms!!.</h3>
 
 
 
